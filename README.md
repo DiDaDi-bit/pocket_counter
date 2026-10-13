@@ -20,16 +20,16 @@
 ## 界面预览
 
 <p align="center">
-  <img src="docs/images/peace-home.png" width="280" alt="二择抛硬币主界面" />
+  <img src="images/peace-home.png" width="280" alt="二择抛硬币主界面" />
   &nbsp;&nbsp;
-  <img src="docs/images/peace-settings.png" width="280" alt="硬币选择与双面预览" />
+  <img src="images/peace-settings.png" width="280" alt="硬币选择与双面预览" />
 </p>
 
 ## 特别硬币：爱与和平
 
 衔着橄榄枝的白鸽，配上爱心与橄榄枝花环。珍珠白与浅金色，让每一次选择都温柔而坚定。
 
-![爱与和平硬币正反面](docs/images/peace-coin.png)
+![爱与和平硬币正反面](images/peace-coin.png)
 
 ## 隐私
 
